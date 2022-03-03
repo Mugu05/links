@@ -1,5 +1,6 @@
 # Favorite links
 
-- Hello world
-- Lets try this 
-- a new commit
+## SQL
+- [StarSQL](https://selectstarsql.com/) - Free, NoAds
+- [SQL](https://www.sqlteaching.com/) - Free, open source, NoAds
+- [SQL Bolt](https://sqlbolt.com/) - Free, Ads
