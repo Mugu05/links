@@ -9,3 +9,7 @@
 ## Royalty-free assets
 - [Mixkit](https://mixkit.co/) - Free Video, Music and Sounds
 - [Reshot](https://www.reshot.com/) - Free SVG and illustrations
+
+
+## LaTeX programming
+- [LaTeX cookbook](https://latex-cookbook.net/) 
