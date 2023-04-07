@@ -24,6 +24,7 @@
 
 
 ## Mathematics
+- [Calculus by Micheal Spivak](https://theswissbay.ch/pdf/Gentoomen%20Library/Maths/Calculus/Michael%20Spivak%20-%20Calculus.pdf)
 - [Chinese Remainder Theorem and its Applications](https://scholarworks.lib.csusb.edu/cgi/viewcontent.cgi?article=4457&context=etd-project)
 - [Another face of Archimedean property](https://www.jstor.org/stable/10.4169/college.math.j.46.2.139)
 - [Formal methods for security knowledge area](https://www.cybok.org/media/downloads/Formal_Methods_for_Security_v1.0.0.pdf)
