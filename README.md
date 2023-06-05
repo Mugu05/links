@@ -24,6 +24,7 @@
 
 ## Algorithms
 - [Algorithms by Jeff Erickson](https://jeffe.cs.illinois.edu/teaching/algorithms/)
+- [List of books](https://franknielsen.github.io/Books/CuratedBookLists.html) - Machine learning and Mathematics
 
 
 ## Mathematics
@@ -38,3 +39,4 @@
 
 ## Free courses
 - [Free courses on Coursera](https://www.freecodecamp.org/news/coursera-free-online-courses-6d84cdb30da/)
+- [Mathematics courses from top universities](https://www.freecodecamp.org/news/math-online-courses-from-worlds-top-universities/)
