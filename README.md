@@ -20,7 +20,10 @@
 - [Quorum Language](https://quorumlanguage.com/learn.html) - For introducing programming to kids
 - [How to Design Programs](https://htdp.org/2022-8-7/Book/index.html)
 - [Elixir Cheat Sheet](https://media.pragprog.com/titles/elixir/ElixirCheat.pdf)
-- [Elixir - little beyond basics](https://www.openmymind.net/Elixir-A-Little-Beyond-The-Basics/)s
+- [Elixir - little beyond basics](https://www.openmymind.net/Elixir-A-Little-Beyond-The-Basics/)
+
+## Algorithms
+- [Algorithms by Jeff Erickson](https://jeffe.cs.illinois.edu/teaching/algorithms/)
 
 
 ## Mathematics
