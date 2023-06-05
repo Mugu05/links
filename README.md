@@ -24,7 +24,10 @@
 
 ## Algorithms
 - [Algorithms by Jeff Erickson](https://jeffe.cs.illinois.edu/teaching/algorithms/)
+
+## Books and links
 - [List of books](https://franknielsen.github.io/Books/CuratedBookLists.html) - Machine learning and Mathematics
+- [List of books on game theory](https://shaneduggan.com/best-books-about-game-theory)
 
 
 ## Mathematics
