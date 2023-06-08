@@ -43,3 +43,7 @@
 ## Free courses
 - [Free courses on Coursera](https://www.freecodecamp.org/news/coursera-free-online-courses-6d84cdb30da/)
 - [Mathematics courses from top universities](https://www.freecodecamp.org/news/math-online-courses-from-worlds-top-universities/)
+
+## BAN Logic
+- [Logic of Authentication](https://dl.acm.org/doi/pdf/10.1145/77648.77649)
+- [Authentication: A Practical Study in Logic and Action](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-138.pdf)
