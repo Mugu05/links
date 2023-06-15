@@ -44,6 +44,20 @@
 - [Free courses on Coursera](https://www.freecodecamp.org/news/coursera-free-online-courses-6d84cdb30da/)
 - [Mathematics courses from top universities](https://www.freecodecamp.org/news/math-online-courses-from-worlds-top-universities/)
 
+## Provable security
+- [An Introduction to provable security](https://www.di.ens.fr/~mabdalla/coursedocs/provablesecurity.pdf)
+- [Provable security - AWS - Youtube videos](https://www.youtube.com/watch?v=6DX7p-OirGU&list=PL_EDAAla3DXVNcf3bNAzLsr6W3NMjZZp8&ab_channel=AWSEvents)
+- [AWS blog](https://www.amazon.science/blog/a-billion-smt-queries-a-day)
+
+## Satisfiability Modulo Theories - SMT solvers
+- [SMT Solvers: Theory and Practice](https://resources.mpi-inf.mpg.de/departments/rg1/conferences/vtsa08/slides/barret2_smt.pdf)
+- [Modern	SMT	Solvers	and	Verification](https://www.iitg.ac.in/pbhaduri/GIAN-CPS/Doc/Tut-1.pdf)
+- [An Introduction to SMT Solvers](https://www.open-do.org/wp-content/uploads/2010/06/SMT_provers.pdf)
+
 ## BAN Logic
 - [Logic of Authentication](https://dl.acm.org/doi/pdf/10.1145/77648.77649)
 - [Authentication: A Practical Study in Logic and Action](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-138.pdf)
+
+## Cyber Security
+- [Basic research in cyber security - DST](https://dst.gov.in/basic-research-cyber-security)
+
