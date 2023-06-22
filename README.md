@@ -61,3 +61,11 @@
 ## Cyber Security
 - [Basic research in cyber security - DST](https://dst.gov.in/basic-research-cyber-security)
 
+## Visualisation and animation 
+- [ObservableHQ](https://observablehq.com/)
+- [D3 graph library](https://d3-graph-gallery.com/index.html) - contains many examples
+- [p5js](https://p5js.org/)
+- [MermaidJS](https://mermaid.js.org/) - Use live editor for various types of graphs (mindmap/flow/.. etc)
+- [ThreeJS](https://threejs.org/) - for 3D animations - Read [fundamentals](https://threejs.org/manual/#en/fundamentals)
+- [Simple open source chart library](https://www.chartjs.org/)
+
