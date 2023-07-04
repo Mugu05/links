@@ -76,5 +76,13 @@
 - [ThreeJS](https://threejs.org/) - for 3D animations - Read [fundamentals](https://threejs.org/manual/#en/fundamentals)
 - [Simple open source chart library](https://www.chartjs.org/)
 
+## Courses
+- [Quantum Computing Fundamentals from Microsoft](https://learn.microsoft.com/en-us/training/paths/quantum-computing-fundamentals/)
+- [Introduction to Quantum Computing for Everyone - University of Chicago - EdX](https://www.edx.org/course/quantum-computing/)
+- [Introduction to Quantum Computing for Everyone 2 - University of Chicago - EdX](https://www.edx.org/course/introduction-to-quantum-computing-for-everyone-2/)
+- [Introduction to Quantum Circuits - Linux Foundation - EdX](https://www.edx.org/course/introduction-to-quantum-circuits/)
+- [Introduction to Quantum Computing - University of British Columbia - EdX](https://www.edx.org/course/intro-to-quantum-computing/)
+- 
+
 
 
