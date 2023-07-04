@@ -9,7 +9,14 @@
 ## Royalty-free assets
 - [Mixkit](https://mixkit.co/) - Free Video, Music and Sounds
 - [Reshot](https://www.reshot.com/) - Free SVG and illustrations
+- [OpenVerse](https://openverse.org/) - Openly licensed assets
 
+## Privacy focused Search engines 
+- [StartPage](https://www.startpage.com/) - Google but private
+- [Giburu](https://gibiru.com/)
+- [SwissCows](https://swisscows.com/en)
+- [SearX](https://searx.thegpm.org/) - MetaSearch Engine
+- [DuckDuckGo](https://duckduckgo.com/)
 
 ## LaTeX programming
 - [LaTeX cookbook](https://latex-cookbook.net/) 
@@ -68,4 +75,6 @@
 - [MermaidJS](https://mermaid.js.org/) - Use live editor for various types of graphs (mindmap/flow/.. etc)
 - [ThreeJS](https://threejs.org/) - for 3D animations - Read [fundamentals](https://threejs.org/manual/#en/fundamentals)
 - [Simple open source chart library](https://www.chartjs.org/)
+
+
 
