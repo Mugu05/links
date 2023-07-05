@@ -38,6 +38,7 @@
 
 
 ## Mathematics
+- [Visual introduction to probability and statistics](https://seeing-theory.brown.edu/index.html)
 - [Calculus by Micheal Spivak](https://theswissbay.ch/pdf/Gentoomen%20Library/Maths/Calculus/Michael%20Spivak%20-%20Calculus.pdf)
 - [Chinese Remainder Theorem and its Applications](https://scholarworks.lib.csusb.edu/cgi/viewcontent.cgi?article=4457&context=etd-project)
 - [Another face of Archimedean property](https://www.jstor.org/stable/10.4169/college.math.j.46.2.139)
