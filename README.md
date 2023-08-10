@@ -1,5 +1,11 @@
 # Favorite links
 
+## Check out 
+- [MyST](https://mystmd.org/) - Markdown for scientific literature
+- [PRQL - Piped Relational Query Language](https://prql-lang.org/) - A better SQL
+- [Typst](https://typst.app/) - Similar to LaTeX but modern and functional.
+- [Penrose](https://penrose.cs.cmu.edu/) - Create beautiful diagrams by typing code. 
+
 ## SQL
 - [StarSQL](https://selectstarsql.com/) - Free, NoAds
 - [SQL](https://www.sqlteaching.com/) - Free, open source, NoAds
