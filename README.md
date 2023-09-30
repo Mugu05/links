@@ -57,6 +57,7 @@
 ## Free courses
 - [Free courses on Coursera](https://www.freecodecamp.org/news/coursera-free-online-courses-6d84cdb30da/)
 - [Mathematics courses from top universities](https://www.freecodecamp.org/news/math-online-courses-from-worlds-top-universities/)
+- [Free video courses](https://github.com/Developer-Y/cs-video-courses) [30-09-2023]
 
 ## Provable security
 - [An Introduction to provable security](https://www.di.ens.fr/~mabdalla/coursedocs/provablesecurity.pdf)
